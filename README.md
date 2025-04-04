@@ -107,7 +107,3 @@ JWT_SECRET=your_jwt_secret
 
 This project is licensed under the ISC License.
 ```
-
----
-
-Let me know your actual GitHub username and I’ll update the link for you too!

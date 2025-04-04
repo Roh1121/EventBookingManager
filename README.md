@@ -48,7 +48,7 @@ EventManager_BITS/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/EventManager_BITS.git
+git clone https://github.com/ThrigunChandra/EventManager_BITS.git
 cd EventManager_BITS
 ```
 

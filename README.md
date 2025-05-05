@@ -1,13 +1,13 @@
 
 
 ```
-# 🎉 EventManager_BITS (MERN Stack)
+🎉 EventManager_BITS (MERN Stack)
 
 A full-stack Event Management System built using the **MERN** stack. The backend supports user authentication with **JWT**, while the frontend is powered by **React + Vite**. This project is a work-in-progress, with foundational features in place and more to come.
 
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
 - **Frontend**: Vite + React
 - **Backend**: Node.js + Express
@@ -16,27 +16,16 @@ A full-stack Event Management System built using the **MERN** stack. The backend
 - **Other Tools**: Axios, CORS, dotenv, bcrypt, nodemon
 
 ---
+🚀 Features Implemented
 
-## 📁 Folder Structure
-
-```
-EventManager_BITS/
-├── frontend/       # Vite + React app
-├── backend/        # Express API server
-```
-
----
-
-## 🚀 Features Implemented
-
-### ✅ Backend
+✅ Backend
 - User registration and login
 - JWT-based authentication using access tokens
 - CORS support
 - MongoDB connection using Mongoose
 - Structured API routes
 
-### ✅ Frontend (Initial Setup)
+✅ Frontend (Initial Setup)
 - Basic UI with a **sidebar** (Genres, Hot Events)
 - **Navbar** component added
 - Routes configured
@@ -44,9 +33,9 @@ EventManager_BITS/
 
 ---
 
-## 🛠️ Installation & Setup
+🛠️ Installation & Setup
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/ThrigunChandra/EventManager_BITS.git
 cd EventManager_BITS
@@ -54,7 +43,7 @@ cd EventManager_BITS
 
 ---
 
-### 2. Backend Setup
+2. Backend Setup
 
 ```bash
 cd backend
@@ -65,7 +54,7 @@ npm run dev
 
 ---
 
-### 3. Frontend Setup
+3. Frontend Setup
 
 ```bash
 cd frontend
@@ -75,7 +64,7 @@ npm run dev
 
 ---
 
-## 🔒 Environment Variables
+🔒 Environment Variables
 
 Create a `.env` file in the `backend` directory:
 
@@ -87,7 +76,7 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 📌 Upcoming Features
+📌 Upcoming Features
 
 - [ ] Connect frontend with backend via API calls  
 - [ ] Sidebar filtering by genres and hot events  
@@ -97,7 +86,7 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 **Rohini** - [@github](https://github.com/Roh1121)
 **ThrigunChandra** – [@github](https://github.com/ThrigunChandra)
 

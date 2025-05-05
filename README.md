@@ -98,7 +98,7 @@ JWT_SECRET=your_jwt_secret
 ---
 
 ## 👨‍💻 Author
-
+**Rohini** - [@github](https://github.com/Roh1121)
 **ThrigunChandra** – [@github](https://github.com/ThrigunChandra)
 
 ---
